@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    margin-top: 50px;
+    color: aliceblue;
+    background-color: #1f1e1e;
+    text-align: center;
+
+}
+
+h1{
+    color: aliceblue;
+}
+::placeholder{
+    color: aliceblue;
+}
+input{
+    border-radius: 15px;
+    padding: 8px;
+    border: none;
+    color: aliceblue;
+    background-color: red;
+}
+
+.entrada{
+    margin-top: 15px;
+    font-size: 25px;
+}
+
+button{
+    cursor: pointer;
+    color: aliceblue;
+    background-color: red;
+    margin-top: 25px;
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+}
+
+form a{
+    cursor: pointer;
+    color: aliceblue;
+}
